@@ -1,2 +1,1 @@
-# playwright-real-estate-scraper
-A repository for scraping real estate listings from property websites
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
